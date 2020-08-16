@@ -10,6 +10,7 @@ start
 ___________________
 python FBHCuteam.py
 ___________________
-insta :qv_00v
-.
-facebook:CUفرقةال
+1- insta :qv_00v
+--------------------
+2- facebook:CUفرقةال
+--------------------
